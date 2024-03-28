@@ -40,6 +40,7 @@ sample output
 ## CICD ref (github action)
 [https://www.youtube.com/watch?v%3DG1u4WBdlWgU](https://www.youtube.com/watch?v%3DG1u4WBdlWgU)
 
-[https://www.youtube.com/watch?v%3Dyln_CffenYw](https://www.youtube.com/watch?v%3Dyln_CffenYw)
+[https://blog.devgenius.io/how-to-build-and-run-a-nodejs-app-with-docker-github-actions-59eb264dfef5](https://blog.devgenius.io/how-to-build-and-run-a-nodejs-app-with-docker-github-actions-59eb264dfef5)
+
 ## deploy to cloud  (Google Cloud)
 [https://www.youtube.com/watch?v%3DpNj6Ek2Qujw](https://www.youtube.com/watch?v%3DpNj6Ek2Qujw)
